@@ -6,6 +6,11 @@
     <version>Snapshot</version>
     <packaging>jar</packaging>
 
+<properties>
+  <sonar.organization>sokinkin</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
     <repositories>
         <repository>
             <id>dv8tion</id>
